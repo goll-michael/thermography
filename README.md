@@ -1,1 +1,1 @@
-# thermography
+# Beispiel-Thermografie-Bilder
